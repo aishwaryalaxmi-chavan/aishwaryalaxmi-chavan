@@ -14,18 +14,13 @@
 ## 🧠 Tech Stack
 
 **Languages & Tools**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+Python, SQL (PostgreSQL, MySQL), Power BI, Tableau, Jupyter Notebooks
 
 **Libraries**  
-`pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`, `tensorflow`, `PyTorch`, `nltk`
+pandas, numpy, scikit-learn, matplotlib, seaborn, tensorflow, PyTorch, nltk
 
 **Technologies & Frameworks**  
-- Git & GitHub  
-- Apache Hadoop & Spark  
-- Docker  
+Apache Hadoop, Apache Spark, Docker, Git & GitHub, AWS (basic), 
 
 ---
 
