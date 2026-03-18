@@ -1,6 +1,4 @@
 # 👋 Hi, I'm Aishwaryalaxmi Chavan
-### Machine Learning Engineer focused on designing, building, and deploying artificial intelligence systems
-
 ## About
 
 I am currently pursuing a **Master of Science in Data Science, Analytics, and Engineering** at **Arizona State University**, with a **3.81/4.00 GPA**. My background combines machine learning, NLP, retrieval systems, and scalable data infrastructure. I am especially interested in building reliable ML products where ranking quality, system efficiency, and auditability matter.
@@ -15,6 +13,17 @@ I build ML systems that combine strong modeling with practical engineering. My w
 💻 **GitHub:** [github.com/aishwaryalaxmi-chavan](https://github.com/aishwaryalaxmi-chavan)
 
 [View Projects](#featured-projects) • [LinkedIn](https://www.linkedin.com/in/aishwaryalaxmi-chavan) • [GitHub](https://github.com/aishwaryalaxmi-chavan)
+
+---
+## Education
+
+### Arizona State University  
+**M.S. in Data Science, Analytics, and Engineering**  
+**August 2024 – May 2026** | GPA: **3.81/4.00**
+
+### University of Pune  
+**Bachelor’s in Engineering**  
+Graduated **May 2022** | **8.14/10.00**
 
 ---
 
@@ -49,32 +58,6 @@ Built a near real-time graph data pipeline using Kafka and the Neo4j Sink Connec
 **Links:** [GitHub Repo](https://github.com/aishwaryalaxmi-chavan/Scalable-Graph-Based-Data-Processing-Pipeline)
 
 ---
-
-## Experience
-
-### Bharat Soft Solutions — Data Scientist  
-**Pune, India | March 2023 – September 2023**
-
-- Designed and deployed an end-to-end ML pipeline for thyroid disease detection with **92% test accuracy**
-- Built automated ingestion and preprocessing scripts using Python, Pandas, and NumPy
-- Improved generalizability through cross-validation and feature selection, reducing cross-validation variance by **15%**
-- Partnered with product and medical stakeholders to translate model outputs into useful recommendations
-- Documented architecture and created reusable modules that reduced future development time by **30%**
-
----
-
-## Education
-
-### Arizona State University  
-**M.S. in Data Science, Analytics, and Engineering**  
-**August 2024 – May 2026** | GPA: **3.81/4.00**
-
-### University of Pune  
-**Bachelor’s in Engineering**  
-Graduated **May 2022** | **8.14/10.00**
-
----
-
 ## Skills
 
 ### Programming
@@ -88,6 +71,19 @@ Hugging Face Transformers, LangChain, ChromaDB, vector search, retrieval and ran
 
 ### Data / Infrastructure
 Spark, Kafka, Docker, Kubernetes, AWS, Linux, Git, Tableau
+
+---
+
+## Experience
+
+### Bharat Soft Solutions — Data Scientist  
+**Pune, India | March 2023 – September 2023**
+
+- Designed and deployed an end-to-end ML pipeline for thyroid disease detection with **92% test accuracy**
+- Built automated ingestion and preprocessing scripts using Python, Pandas, and NumPy
+- Improved generalizability through cross-validation and feature selection, reducing cross-validation variance by **15%**
+- Partnered with product and medical stakeholders to translate model outputs into useful recommendations
+- Documented architecture and created reusable modules that reduced future development time by **30%**
 
 ---
 
