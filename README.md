@@ -98,9 +98,4 @@ Spark, Kafka, Docker, Kubernetes, AWS, Linux, Git, Tableau
 
 I’m interested in machine learning engineering roles and projects involving retrieval systems, ranking, LLM applications, and data infrastructure.
 
-📍 Based in Tempe, Arizona  
-📫 **Email:** ahchava1@asu.edu  
-🌐 **LinkedIn:** [linkedin.com/in/aishwaryalaxmi-chavan](https://www.linkedin.com/in/aishwaryalaxmi-chavan/)  
-💻 **GitHub:** [github.com/aishwaryalaxmi-chavan](https://github.com/aishwaryalaxmi-chavan)
-
 Feel free to reach out if you'd like to collaborate, discuss opportunities, or connect.
