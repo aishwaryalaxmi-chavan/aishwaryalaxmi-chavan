@@ -1,6 +1,11 @@
-# Aishwaryalaxmi Chavan
+# 👋 Hi, I'm Aishwaryalaxmi Chavan
+### Machine Learning Engineer focused on designing, building, and deploying artificial intelligence systems
 
-## Machine Learning Engineer focused on designing, building, and deploying artificial intelligence systems
+## About
+
+I am currently pursuing a **Master of Science in Data Science, Analytics, and Engineering** at **Arizona State University**, with a **3.81/4.00 GPA**. My background combines machine learning, NLP, retrieval systems, and scalable data infrastructure. I am especially interested in building reliable ML products where ranking quality, system efficiency, and auditability matter.
+
+Before grad school, I worked as a **Data Scientist at Bharat Soft Solutions** in Pune, India, where I designed and deployed an end-to-end ML pipeline for thyroid disease detection, built automated preprocessing workflows, and improved model generalizability through cross-validation and feature selection.
 
 I build ML systems that combine strong modeling with practical engineering. My work includes hybrid search pipelines using BM25, embeddings, and cross-encoders, along with production-oriented tooling across Python, Kafka, Docker, and Kubernetes. Most recently, I built retrieval and ranking systems that reduced latency by **56%** while maintaining **99% recall** on evaluation.
 
@@ -10,14 +15,6 @@ I build ML systems that combine strong modeling with practical engineering. My w
 💻 **GitHub:** [github.com/aishwaryalaxmi-chavan](https://github.com/aishwaryalaxmi-chavan)
 
 [View Projects](#featured-projects) • [LinkedIn](https://www.linkedin.com/in/aishwaryalaxmi-chavan) • [GitHub](https://github.com/aishwaryalaxmi-chavan)
-
----
-
-## About
-
-I am currently pursuing a **Master of Science in Data Science, Analytics, and Engineering** at **Arizona State University**, with a **3.81/4.00 GPA**. My background combines machine learning, NLP, retrieval systems, and scalable data infrastructure. I am especially interested in building reliable ML products where ranking quality, system efficiency, and auditability matter.
-
-Before grad school, I worked as a **Data Scientist at Bharat Soft Solutions** in Pune, India, where I designed and deployed an end-to-end ML pipeline for thyroid disease detection, built automated preprocessing workflows, and improved model generalizability through cross-validation and feature selection.
 
 ---
 
