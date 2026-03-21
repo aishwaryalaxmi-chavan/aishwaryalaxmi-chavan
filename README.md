@@ -12,8 +12,6 @@ I build ML systems that combine strong modeling with practical engineering. My w
 🔗 **LinkedIn:** [linkedin.com/in/aishwaryalaxmi-chavan](https://www.linkedin.com/in/aishwaryalaxmi-chavan)  
 💻 **GitHub:** [github.com/aishwaryalaxmi-chavan](https://github.com/aishwaryalaxmi-chavan)
 
-[View Projects](#featured-projects) • [LinkedIn](https://www.linkedin.com/in/aishwaryalaxmi-chavan) • [GitHub](https://github.com/aishwaryalaxmi-chavan)
-
 ---
 ## Education
 
