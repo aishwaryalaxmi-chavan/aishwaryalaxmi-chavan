@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Aishwaryalaxmi Chavan
 ## About
 
-I am currently pursuing a **Master of Science in Data Science, Analytics, and Engineering** at **Arizona State University**, with a **3.81/4.00 GPA**. My background combines machine learning, NLP, retrieval systems, and scalable data infrastructure. I am especially interested in building reliable ML products where ranking quality, system efficiency, and auditability matter.
+I am currently pursuing a Master of Science in Data Science, Analytics, and Engineering at Arizona State University, with a 3.81/4.00 GPA. My interests lie in **machine learning, retrieval and ranking, LLM applications, and scalable data systems**. I like building practical AI solutions that balance **performance, efficiency, and reliability.**
 
-Before grad school, I worked as a **Data Scientist at Bharat Soft Solutions** in Pune, India, where I designed and deployed an end-to-end ML pipeline for thyroid disease detection, built automated preprocessing workflows, and improved model generalizability through cross-validation and feature selection.
+Previously, I worked as a Data Scientist at Bharat Soft Solutions, where I worked on healthcare machine learning pipelines by preparing clinical data, building preprocessing and modeling workflows, and improving model generalization through feature selection and cross-validation.
 
-I build ML systems that combine strong modeling with practical engineering. My work includes hybrid search pipelines using BM25, embeddings, and cross-encoders, along with production-oriented tooling across Python, Kafka, Docker, and Kubernetes. Most recently, I built retrieval and ranking systems that reduced latency by **56%** while maintaining **99% recall** on evaluation.
+My projects reflect my interest in combining ML with engineering. I have built **hybrid retrieval pipelines with BM25, embeddings, and cross-encoders, semantic recommendation systems**, and **real-time graph data pipelines** using tools like **Python, Kafka, Docker, Kubernetes, and Neo4j**. Recently, I built a retrieval and ranking system that achieved a **56% latency reduction** while maintaining **99% recall**.
 
 📍 **Location:** Tempe, Arizona, USA  
 📧 **Email:** [ahchava1@asu.edu](mailto:ahchava1@asu.edu)  
@@ -75,13 +75,12 @@ Spark, Kafka, Docker, Kubernetes, AWS, Linux, Git, Tableau
 ## Experience
 
 ### Bharat Soft Solutions — Data Scientist  
-**Pune, India | March 2023 – September 2023**
+**Pune, India | March 2023 – May 2024**
 
-- Designed and deployed an end-to-end ML pipeline for thyroid disease detection with **92% test accuracy**
-- Built automated ingestion and preprocessing scripts using Python, Pandas, and NumPy
-- Improved generalizability through cross-validation and feature selection, reducing cross-validation variance by **15%**
-- Partnered with product and medical stakeholders to translate model outputs into useful recommendations
-- Documented architecture and created reusable modules that reduced future development time by **30%**
+- Processed and transformed raw clinical data using Python, pandas, and SQL to prepare high-quality datasets for healthcare prediction and classification models.
+- Built machine learning pipelines covering preprocessing, feature engineering, model training, cross-validation, and performance evaluation.
+- Improved model generalization through feature selection, cross-validation, and iterative experimentation, reducing validation variance by 15% and increasing reliability on unseen data.
+- Developed reusable pipeline components and technical documentation, accelerating delivery of related healthcare analytics projects.
 
 ---
 
