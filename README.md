@@ -1,11 +1,13 @@
 # 👋 Hi, I'm Aishwaryalaxmi Chavan
 ## About
 
-I am currently pursuing a Master of Science in Data Science, Analytics, and Engineering at Arizona State University, with a 3.81/4.00 GPA. My interests lie in **machine learning, retrieval and ranking, LLM applications, and scalable data systems**. I like building practical AI solutions that balance **performance, efficiency, and reliability.**
+I recently graduated with a Master of Science in Data Science, Analytics, and Engineering from Arizona State University. My interests lie in **machine learning, retrieval and ranking, LLM applications, and scalable data systems**. I enjoy building practical AI systems that balance **performance, efficiency, and reliability**.
 
-Previously, I worked as a Data Scientist at Bharat Soft Solutions, where I worked on healthcare machine learning pipelines by preparing clinical data, building preprocessing and modeling workflows, and improving model generalization through feature selection and cross-validation.
+Previously, I worked as a Data Scientist at Bharat Soft Solutions, where I built healthcare machine learning pipelines for clinical data preprocessing, feature engineering, model training, validation, and evaluation. I also worked on improving model generalization through cross-validation, feature selection, and hyperparameter tuning.
 
-My projects reflect my interest in combining ML with engineering. I have built **hybrid retrieval pipelines with BM25, embeddings, and cross-encoders, semantic recommendation systems**, and **real-time graph data pipelines** using tools like **Python, Kafka, Docker, Kubernetes, and Neo4j**. Recently, I built a retrieval and ranking system that achieved a **56% latency reduction** while maintaining **99% recall**.
+My projects reflect my interest in combining machine learning with engineering. I have built **hybrid retrieval pipelines using BM25, embeddings, and cross-encoders**, **semantic recommendation systems**, and **real-time graph data pipelines** using tools like **Python, Kafka, Docker, Kubernetes, and Neo4j**.
+
+I’m currently seeking machine learning engineering and data science opportunities involving retrieval systems, ranking, LLM applications, and data infrastructure.
 
 📍 **Location:** Tempe, Arizona, USA  
 📧 **Email:** [ahchava1@asu.edu](mailto:ahchava1@asu.edu)  
@@ -86,6 +88,6 @@ Spark, Kafka, Docker, Kubernetes, AWS, Linux, Git, Tableau
 
 ## 💬 Let's Connect
 
-I’m interested in machine learning engineering roles and projects involving retrieval systems, ranking, LLM applications, and data infrastructure.
+I’m currently seeking machine learning engineering and data science opportunities involving retrieval systems, ranking, LLM applications, and data infrastructure.
 
 Feel free to reach out if you'd like to collaborate, discuss opportunities, or connect.
