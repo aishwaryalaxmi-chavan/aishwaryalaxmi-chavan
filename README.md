@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Aishwaryalaxmi Chavan
 ## About
 
-I recently graduated with a Master of Science in Data Science, Analytics, and Engineering from Arizona State University. My interests lie in **machine learning, retrieval and ranking, LLM applications, and scalable data systems**. I enjoy building practical AI systems that balance **performance, efficiency, and reliability**.
+I recently graduated with a Master of Science in Data Science, Analytics, and Engineering from Arizona State University. I focus on **machine learning, retrieval and ranking, LLM applications, and scalable data systems**. I enjoy building practical AI systems that balance **performance, efficiency, and reliability**.
 
 Previously, I worked as a Data Scientist at Bharat Soft Solutions, where I built healthcare machine learning pipelines for clinical data preprocessing, feature engineering, model training, validation, and evaluation. I also worked on improving model generalization through cross-validation, feature selection, and hyperparameter tuning.
 
