@@ -17,7 +17,7 @@ My projects reflect my interest in combining ML with engineering. I have built *
 
 ### Arizona State University  
 **M.S. in Data Science, Analytics, and Engineering**  
-**August 2024 – May 2026** | GPA: **3.81/4.00**
+**August 2024 – May 2026** | GPA: **3.83/4.00**
 
 ### University of Pune  
 **Bachelor’s in Engineering**  
