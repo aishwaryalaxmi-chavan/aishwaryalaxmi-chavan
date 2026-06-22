@@ -77,10 +77,10 @@ Spark, Kafka, Docker, Kubernetes, AWS, Linux, Git, Tableau
 ### Bharat Soft Solutions — Data Scientist  
 **Pune, India | March 2023 – May 2024**
 
-- Processed and transformed raw clinical data using Python, pandas, and SQL to prepare high-quality datasets for healthcare prediction and classification models.
-- Built machine learning pipelines covering preprocessing, feature engineering, model training, cross-validation, and performance evaluation.
-- Improved model generalization through feature selection, cross-validation, and iterative experimentation, reducing validation variance by 15% and increasing reliability on unseen data.
-- Developed reusable pipeline components and technical documentation, accelerating delivery of related healthcare analytics projects.
+- Built reusable ML training pipelines in Python, pandas, scikit-learn, and SQL for healthcare prediction and classification use cases, covering preprocessing, feature engineering, model training, validation, and evaluation.
+- Engineered patient-level features from demographics, diagnosis history, lab results, prior admissions, and healthcare utilization patterns to improve model input quality for risk prediction and cohort segmentation.
+- Trained and evaluated multiple classification models, including tree-based and gradient boosting models, for healthcare risk prediction, improving generalization through cross-validation, feature selection, and hyperparameter tuning.
+- Built Tableau dashboards to present model outputs, chronic disease trends, patient risk groups, and preventive care KPIs, helping stakeholders track healthcare outcomes and data-driven insights.
 
 ---
 
