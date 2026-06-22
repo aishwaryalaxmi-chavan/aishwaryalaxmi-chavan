@@ -9,7 +9,7 @@ My projects reflect my interest in combining machine learning with engineering. 
 
 I’m currently seeking machine learning engineering and data science opportunities involving retrieval systems, ranking, LLM applications, and data infrastructure.
 
-📍 **Location:** Tempe, Arizona, USA  
+📍 **Location:** San Jose, California, USA  
 📧 **Email:** [ahchava1@asu.edu](mailto:ahchava1@asu.edu)  
 🔗 **LinkedIn:** [linkedin.com/in/aishwaryalaxmi-chavan](https://www.linkedin.com/in/aishwaryalaxmi-chavan)  
 💻 **GitHub:** [github.com/aishwaryalaxmi-chavan](https://github.com/aishwaryalaxmi-chavan)
