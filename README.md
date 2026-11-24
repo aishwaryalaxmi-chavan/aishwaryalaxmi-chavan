@@ -1,93 +1,137 @@
+
 # 👋 Hi, I'm Aishwaryalaxmi Chavan
-## About
 
-I recently graduated with a Master of Science in Data Science, Analytics, and Engineering from Arizona State University. I focus on **machine learning, retrieval and ranking, LLM applications, and scalable data systems**. I enjoy building practical AI systems that balance **performance, efficiency, and reliability**.
+### Machine Learning Engineer | Data Scientist | Generative AI Enthusiast
 
-Previously, I worked as a Data Scientist at Bharat Soft Solutions, where I built healthcare machine learning pipelines for clinical data preprocessing, feature engineering, model training, validation, and evaluation. I also worked on improving model generalization through cross-validation, feature selection, and hyperparameter tuning.
+## About Me
 
-My projects reflect my interest in combining machine learning with engineering. I have built **hybrid retrieval pipelines using BM25, embeddings, and cross-encoders**, **semantic recommendation systems**, and **real-time graph data pipelines** using tools like **Python, Kafka, Docker, Kubernetes, and Neo4j**.
+I hold a Master of Science in Data Science, Analytics, and Engineering from Arizona State University. My interests lie in **machine learning, generative AI, natural language processing, retrieval and ranking systems, and scalable data infrastructure**.
 
-I’m currently seeking machine learning engineering and data science opportunities involving retrieval systems, ranking, LLM applications, and data infrastructure.
+I have experience developing end-to-end machine learning pipelines, recommendation systems, graph-based solutions, and retrieval-augmented generation (RAG) applications.
+
+Previously, I worked as a **Machine Learning Research Volunteer at Arizona State University**, where I developed legal citation graphs and applied graph analytics to support LLM training and NLP research. I also worked as a **Data Scientist at Bharat Software Solutions**, building and optimizing machine learning solutions for healthcare applications.
+
+I enjoy building practical AI solutions that combine machine learning with software engineering, with an emphasis on **performance, scalability, efficiency, and reliability**.
 
 📍 **Location:** San Jose, California, USA  
-📧 **Email:** [ahchava1@asu.edu](mailto:ahchava1@asu.edu)  
-🔗 **LinkedIn:** [linkedin.com/in/aishwaryalaxmi-chavan](https://www.linkedin.com/in/aishwaryalaxmi-chavan)  
-💻 **GitHub:** [github.com/aishwaryalaxmi-chavan](https://github.com/aishwaryalaxmi-chavan)
+📧 **Email:** [aishwaryalaxmic@gmail.com](mailto:aishwaryalaxmic@gmail.com)  
+🔗 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/aishwaryalaxmi-chavan)  
+🌐 **Portfolio:** [Visit my portfolio](https://aishwaryalaxmi-chavan.github.io/)
 
 ---
-## Education
 
-### Arizona State University  
-**M.S. in Data Science, Analytics, and Engineering**  
-**August 2024 – May 2026** | GPA: **3.83/4.00**
+## 🎓 Education
 
-### University of Pune  
+### Arizona State University
+**Master of Science in Data Science, Analytics, and Engineering**  
+August 2024 – May 2026 | **GPA: 3.83/4.00**
+
+### University of Pune
 **Bachelor’s in Engineering**  
-Graduated **May 2022** | **8.14/10.00**
+Graduated May 2022 | **GPA: 8.14/10.00**
 
 ---
 
-## Featured Projects
+
+## 🚀 Featured Projects
 
 ### 1. LLM-Assisted OFAC Sanctions Screening (SentinelRAG)
 
-**Tech Stack:** Python, Sentence-Transformers, ChromaDB, Cross-Encoder
+**Tech Stack:** Python, FastAPI, Streamlit, Sentence Transformers, BM25, ChromaDB, Cross-Encoders
 
-Built an OFAC SDN sanctions screening pipeline using **BM25 + embeddings + cross-encoder** retrieval, with **0 PII sent to external APIs**. The system supports fuzzy matching across names, aliases, and IDs. I also designed a deterministic decision layer for auditable **MATCH / NO MATCH** outcomes after identifying hallucination risk in LLM-driven decisions. Latency was reduced by **56%** while maintaining **99% recall** and **1.00 precision** on the evaluation set.
+- Engineered a privacy-preserving financial sanctions-screening pipeline across **18,704 OFAC SDN entities** using hybrid BM25 and vector retrieval, fuzzy matching, and cross-encoder reranking.
+- Achieved **99% recall** and reduced screening latency by **56% to 90 ms** through optimized knowledge-graph-based entity resolution.
+- Implemented FastAPI endpoints, automated data updates, PII redaction, and a deterministic decision layer for auditable screening outcomes.
 
-**Links:** [GitHub Repo](https://github.com/aishwaryalaxmi-chavan/sanctions-rag-screening)
-
----
-
-### 2. AI Semantic Book Recommendation System
-
-**Tech Stack:** Python, Hugging Face Transformers, LangChain, ChromaDB, Gradio, Pandas
-
-Built a semantic recommendation system that matches user intent using transformer embeddings, sentiment, category signals, and vector similarity search in ChromaDB. Implemented a retrieval and ranking pipeline and exposed it through a Gradio dashboard for real-time recommendations. Benchmarked semantic retrieval against keyword search on **7k+ book descriptions** and showed improved recommendation relevance.
-
-**Links:** [GitHub Repo](https://github.com/aishwaryalaxmi-chavan/semantic-book-recommender)
+**Links:** [GitHub Repository](https://github.com/aishwaryalaxmi-chavan/sanctions-rag-screening)
 
 ---
 
-### 3. Real-Time Graph Data Processing Pipeline
+### 2. Advanced RAG from Scratch with Ollama
 
-**Tech Stack:** Python, Kafka, Neo4j GDS, Kubernetes, Docker, Helm
+**Tech Stack:** Python, LangChain, LangSmith, Ollama, Llama 3.2, ChromaDB, Nomic Embeddings, RAGatouille
 
-Built a near real-time graph data pipeline using Kafka and the Neo4j Sink Connector, deployed on Kubernetes with Helm. Ran graph analytics using PageRank and BFS for large-scale graph analysis. Also built containerized microservices and deployment workflows to demonstrate scalable, fault-tolerant distributed systems.
+- Implemented and explored advanced Retrieval-Augmented Generation (RAG) techniques using locally hosted LLMs and embedding models, without relying on external LLM APIs for generation.
+- Developed retrieval optimization techniques including multi-query retrieval, RAG Fusion with Reciprocal Rank Fusion (RRF), query decomposition, step-back prompting, HyDE, and cross-encoder reranking.
+- Explored structured and semantic routing, multi-vector retrieval, ColBERT, Corrective RAG, and Self-RAG-style groundedness checks, using LangSmith for tracing and debugging.
 
-**Links:** [GitHub Repo](https://github.com/aishwaryalaxmi-chavan/Scalable-Graph-Based-Data-Processing-Pipeline)
-
----
-## Skills
-
-### Programming
-Python, SQL, Bash/Shell, Java
-
-### ML / AI
-scikit-learn, PyTorch, TensorFlow, NLP, embeddings, feature engineering, model evaluation, cross-validation
-
-### LLM / RAG
-Hugging Face Transformers, LangChain, ChromaDB, vector search, retrieval and ranking
-
-### Data / Infrastructure
-Spark, Kafka, Docker, Kubernetes, AWS, Linux, Git, Tableau
+**Links:** [GitHub Repository](https://github.com/aishwaryalaxmi-chavan/rag_from_scratch)
 
 ---
 
-## Experience
+### 3. Semantic Book Recommendation System
 
-### Bharat Soft Solutions — Data Scientist  
+**Tech Stack:** Python, Hugging Face Transformers, LangChain, ChromaDB, Gradio
+
+- Developed a semantic recommendation and ranking pipeline across **7,000+ books** using transformer-based embeddings and vector similarity search.
+- Integrated zero-shot classification and transformer-based emotion analysis to deliver context-aware recommendations based on category, sentiment, and semantic relevance.
+- Built an interactive Gradio application that allows users to discover books through natural-language queries.
+
+**Links:** [GitHub Repository](https://github.com/aishwaryalaxmi-chavan/semantic-book-recommender)
+
+---
+
+## 💼 Professional Experience
+
+### Arizona State University — Machine Learning Research Volunteer
+
+**Tempe, Arizona | June 2026 – September 2026**
+
+- Developed scalable Python-based data processing pipelines and constructed a legal citation graph comprising **7,100 nodes and 18,400 edges** to analyze judicial relationships and influential precedents.
+- Applied Louvain community detection, PageRank, betweenness centrality, and HITS ranking, identifying **88 communities with a modularity score of 0.61**.
+- Structured legal arguments, evidence, and reasoning into knowledge representations and proof graphs to support downstream LLM training and NLP research.
+
+### Bharat Software Solutions — Data Scientist
+
 **Pune, India | March 2023 – May 2024**
 
-- Built reusable ML training pipelines in Python, pandas, scikit-learn, and SQL for healthcare prediction and classification use cases, covering preprocessing, feature engineering, model training, validation, and evaluation.
-- Engineered patient-level features from demographics, diagnosis history, lab results, prior admissions, and healthcare utilization patterns to improve model input quality for risk prediction and cohort segmentation.
-- Trained and evaluated multiple classification models, including tree-based and gradient boosting models, for healthcare risk prediction, improving generalization through cross-validation, feature selection, and hyperparameter tuning.
-- Built Tableau dashboards to present model outputs, chronic disease trends, patient risk groups, and preventive care KPIs, helping stakeholders track healthcare outcomes and data-driven insights.
+- Developed end-to-end machine learning pipelines using Python, SQL, pandas, and scikit-learn for healthcare prediction and classification applications.
+- Improved chronic-disease prediction performance by **15%** through feature selection, hyperparameter optimization, and iterative model evaluation.
+- Developed reusable Python workflows, trained machine learning models, and built interactive Tableau dashboards to support performance analysis, client reporting, and data-driven decision-making.
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+Python, SQL (PostgreSQL/MySQL), Bash/Shell, Java
+
+### Machine Learning & Deep Learning
+scikit-learn, PyTorch, TensorFlow, XGBoost, LightGBM, CatBoost, JAX/Flax
+
+### Generative AI & NLP
+RAG, LangChain, LangSmith, Ollama, Hugging Face Transformers, Sentence Transformers, ChromaDB, LLMs, Embeddings, Semantic Search, Hybrid Retrieval, Query Transformation, Cross-Encoder Reranking, Recommendation Systems
+
+### Machine Learning Techniques
+Feature Engineering, Model Evaluation, Cross-Validation, Hyperparameter Tuning, Experiment Design, A/B Testing, Ensemble Learning
+
+### Data Engineering & MLOps
+Apache Spark, Kafka, Docker, Kubernetes, AWS, FastAPI, Neo4j, Helm
+
+### Developer Tools
+Git, GitHub, Cursor, Claude Code, GitHub Copilot, Jupyter Notebook
+
+### Data Visualization & Application Development
+Tableau, Streamlit, Gradio, Matplotlib, Seaborn
+
+---
+
+## 🌱 Areas of Interest
+
+- Machine Learning Engineering
+- Generative AI and LLM Applications
+- Retrieval-Augmented Generation (RAG)
+- Semantic Search and Ranking Systems
+- Recommendation Systems
+- Knowledge Graphs and Graph Analytics
+- MLOps and Scalable ML Systems
 
 ---
 
 ## 💬 Let's Connect
 
-I’m currently seeking machine learning engineering and data science opportunities involving retrieval systems, ranking, LLM applications, and data infrastructure.
+I'm currently exploring opportunities in **Machine Learning Engineering, Data Science, and Applied AI**, where I can contribute to building practical, reliable, and scalable AI solutions.
 
-Feel free to reach out if you'd like to collaborate, discuss opportunities, or connect.
+I'm always open to discussing interesting projects, research, collaborations, and career opportunities.
+
+📧 [Email](mailto:aishwaryalaxmic@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/aishwaryalaxmi-chavan) | 🌐 [Portfolio](https://aishwaryalaxmi-chavan.github.io/)
